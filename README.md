@@ -27,17 +27,10 @@ Based on previous transaction & performance data from the last 18 campaigns, pre
 Dataset Description
 Here is the schema for the different data tables available. The detailed data dictionary is provided next.
 
- 
 
 You are provided with the following files in train.zip:
 
 train.csv: Train data containing the coupons offered to the given customers under the 18 campaigns
-Variable 	Definition
-id 	Unique id for coupon customer impression
-campaign_id 	Unique id for a discount campaign
-coupon_id 	Unique id for a discount coupon
-customer_id 	Unique id for a customer
-redemption_status 	(target) (0 - Coupon not redeemed, 1 - Coupon redeemed)
  
 
 campaign_data.csv: Campaign information for each of the 28 campaigns
