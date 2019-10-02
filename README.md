@@ -26,7 +26,7 @@ Based on previous transaction & performance data from the last 18 campaigns, pre
  
 Dataset Description
 Here is the schema for the different data tables available. The detailed data dictionary is provided next.
-Images/Data_Overview.png
+![Data_Overview](Images/Data_Overview.png)
 
 You are provided with the following files in train.zip:
 
